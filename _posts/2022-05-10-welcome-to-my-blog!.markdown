@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-05-09 16:13:18 +0200
-categories: jekyll update
+title:  "Welcome to my Blog!"
+date:   2022-05-10 15:40:00 +0200
+categories: Welcome Introduction
 ---
+
+Hi stranger, welcome to my cocoon. So I know what you are thinking, why the cocoon, are you.. trying to be cool somehow?
+Okay lay off the pressure I am gonna tell you, jeez you are intense
+
+<!-- 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -26,4 +31,4 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ -->

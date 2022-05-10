@@ -4,3 +4,6 @@
 
 layout: home
 ---
+OH!... UHmmmm, Hii? Did you knock!  
+Alright, come in. It is a bit tight in my cocoon but squeeze in, it's pretty cosy.  
+Soon enough all of us will be out of here. Just wait till my development is done (if ever?).
