@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to my Blog!"
 date:   2022-05-10 15:40:00 +0200
 categories: Welcome Introduction
+author: Mohamed Mahrous
 ---
 
 Hi stranger, welcome to my cocoon. So I know what you are thinking, why the cocoon, are you.. trying to be cool somehow?
